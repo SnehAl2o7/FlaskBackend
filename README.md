@@ -30,10 +30,6 @@ This project provides a modular Flask backend designed to serve as a boilerplate
 
 ---
 
-## 📁 Project Structure
-
-
----
 
 ## ⚙️ Getting Started
 
