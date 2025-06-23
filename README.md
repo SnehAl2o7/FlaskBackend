@@ -30,11 +30,3 @@ This project provides a modular Flask backend designed to serve as a boilerplate
 
 ---
 
-
-## ⚙️ Getting Started
-
-### 1️⃣ Clone & Navigate
-
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
